@@ -240,7 +240,7 @@ if g:gruvbox_termcolors == 16
   let s:blue[1]   = 4
   let s:purple[1] = 5
   let s:aqua[1]   = 6
-  let s:orange[1] = 9
+  let s:orange[1] = 13
   let s:fg1[1]    = 15
 endif
 
